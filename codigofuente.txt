@@ -1,2 +1,4 @@
-Bienvenidos
-Frank
+ls el archivo q aparece en la carpeta
+dws la ruta
+
+git version => la version
